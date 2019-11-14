@@ -1,1 +1,2 @@
 print('maomaonihao')
+print('ahang')
