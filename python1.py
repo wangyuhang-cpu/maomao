@@ -1,2 +1,1 @@
 print('maomaonihao')
-print('ahang')
